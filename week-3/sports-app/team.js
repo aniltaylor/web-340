@@ -10,3 +10,12 @@ class team {
   teamDetails() {
     return "name: "+this.name +"mascot : "+this.mascot+"playerCount: "+this.playerCount; 
   }
+  function getTeamInfor() {
+    return [
+        {id: 1, name: "", mascot: "", playerCount:""},
+        {id: 2, name: "", mascot: "", PlayerCount: ""},
+        {id: 3, name: "", mascot: "", playerCount: ""}
+    ];
+module.exports.name = n;
+module.exports.mascot = m;
+module.exports.playerCount = p;

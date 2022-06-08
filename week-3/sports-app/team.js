@@ -10,7 +10,7 @@ class team {
   teamDetails() {
     return "name: "+this.name +"mascot : "+this.mascot+"playerCount: "+this.playerCount; 
   }
-  function getTeamInfor() {
+  function getTeamObjects() {
     return [
         {id: 1, name: "", mascot: "", playerCount:""},
         {id: 2, name: "", mascot: "", PlayerCount: ""},

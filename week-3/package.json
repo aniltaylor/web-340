@@ -9,6 +9,7 @@ use of JavaScript types, values, and
 and variables in an application.
 ===========================================
 */
+/* package for json*/
 {
   "name": "web-340",
   "version": "1.0.0",

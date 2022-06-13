@@ -1,15 +1,22 @@
 {
-  "name": "sports-app",
+  "name": "web-340",
   "version": "1.0.0",
+  "description": "sports app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
-  "author": "anita taylor",
+  "repository": {
+    "type": "git",
+    "url": "git+https:/aniltaylor/github.com//web-340.git"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "kayla mcdanel",
   "license": "MIT",
-  "description": "",
-  "dependencies": {
-    "moment": "^2.28.0",
-    "pino": "^6.13.4"
-  }
+  "bugs": {
+    "url": "https://github.com/aniltaylor/web-340/issues"
+  },
+  "homepage": "https://github.com/aniltaylor/web-340#readme"
 }

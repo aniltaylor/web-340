@@ -19,4 +19,4 @@ class Team {
     }
 }
 
-module.exports = 'Team';
+module.exports = Team;

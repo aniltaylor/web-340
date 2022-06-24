@@ -69,5 +69,5 @@ function getGame(string){
 }
 
 //Exports two functions
-module.exports = findTeams();
-module.exports = getGame();
+module.exports = 'findTeams()';
+module.exports = 'getGame()';

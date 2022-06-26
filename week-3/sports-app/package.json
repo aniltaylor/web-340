@@ -1,0 +1,34 @@
+/*
+==========================================
+Title: Assignment 3
+Author: Professor Krasso
+Date: 10 June 2022
+Modified By: <ANITA TAYLOR>
+Description: This program demonstrates the
+use of JavaScript types, values, and
+and variables in an application.
+==========================================
+*/
+/* package for json*/
+{
+  "name": "web-340",
+  "version": "1.0.0",
+  "description": "sports app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https:/aniltaylor/github.com//web-340.git"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "kayla mcdanel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniltaylor/web-340/issues"
+  },
+  "homepage": "https://github.com/aniltaylor/web-340#readme"
+}
